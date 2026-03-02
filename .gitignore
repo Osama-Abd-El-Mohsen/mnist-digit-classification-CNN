@@ -1,0 +1,5 @@
+.vscode
+.venv
+Folder Structure.png
+*.txt
+*.pyc
