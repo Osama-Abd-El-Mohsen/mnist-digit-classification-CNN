@@ -1,0 +1,9 @@
+joblib
+scikit-learn
+streamlit
+streamlit-drawable-canvas
+numpy
+pandas
+pillow
+tensorflow
+keras
