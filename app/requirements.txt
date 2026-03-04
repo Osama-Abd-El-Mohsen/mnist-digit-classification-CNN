@@ -1,9 +1,19 @@
-joblib
-scikit-learn
-streamlit
-streamlit-drawable-canvas
+# Neural Canvas - Dependencies
+# ============================
+
+# Core ML Framework
+tensorflow
+keras
+
+# Data Processing
 numpy
 pandas
 pillow
-tensorflow
-keras
+
+# Model Persistence
+joblib
+scikit-learn
+
+# Web Application
+streamlit
+streamlit-drawable-canvas
