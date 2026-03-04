@@ -1,20 +1,9 @@
-# Neural Canvas - Dependencies
-# ============================
-
-# Core ML Framework
 tensorflow
-keras
-
-# Data Processing
 numpy
 pandas
 pillow
-
-# Model Persistence
 joblib
 scikit-learn
-
-# Web Application
 streamlit
 streamlit-drawable-canvas
-protobuf==3.20.3
+protobuf
