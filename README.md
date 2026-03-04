@@ -1,6 +1,9 @@
 # 🔢 MNIST Digit Classification with Neural Networks
 
-A deep learning project featuring EDA, model training, and an interactive web application for handwritten digit recognition.
+![Diabetes Risk Predictor](assets/web_app.png)
+
+
+> A deep learning project featuring EDA, model training, and an interactive web application for handwritten digit recognition.
 
 ---
 
