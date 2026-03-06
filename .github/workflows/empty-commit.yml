@@ -19,10 +19,10 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name secrets.MY_Name
+          git config user.email secrets.MY_EMAIL
 
       - name: Create empty commit and push
         run: |
-          git commit --allow-empty -m "chore: scheduled empty commit"
+          git commit  -m "Refresh Website"
           git push
